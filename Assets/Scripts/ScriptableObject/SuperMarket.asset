@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BuildingTypeSO
   buildingName: SuperMarket
   prefab: {fileID: 100000, guid: c3e95e72d6dba334594c3c5c37fcf18a, type: 3}
-  tileWidth: 2
-  tileHeight: 2
+  tileWidth: 3
+  tileHeight: 1
   category: 1
-  placementRuleType: 0
+  placementRuleType: 1
